@@ -12,13 +12,15 @@
 
     body {
       margin: 0 auto;
+      max-width: 64rem;
       font-family: sans-serif;
+      background: ghostwhite;
+      padding: 1rem 0 2rem;
     }
 
     main {
       padding: 0 2rem;
       max-width: 48rem;
-      margin: 0 auto;
     }
 
     code {}
@@ -26,31 +28,34 @@
     pre code {}
 
     nav {
-      background: #336699;
-      display: flex;
+      margin: 0;
     }
 
     nav ul {
-      margin: auto;
+      margin: 0 auto;
+      padding: 0;
       display: flex;
       font-family: "Cousine",monospace;
-      max-width: 48rem;
       width: 100%;
       padding-left: 0;
+
+      border-bottom: 2px solid black;
+      text-align: center;
     }
 
     nav li {
       list-style: none;
+      height: 1.5rem;
       padding: 1rem 1rem;
+      display: inline-block;
     }
 
     nav li * {
-      display: block;
-      color: white;
+      color: dimgray;
     }
 
     nav li strong {
-
+      padding-left: 0;
     }
 
     nav a {
@@ -58,12 +63,13 @@
     }
 
     nav a:hover{
-      background: gray;
+      border-bottom-style: groove;
+      border-color: black;
     }
 
     nav a:active{
       border-bottom-style: groove;
-      border-color: white;
+      border-color: black;
     }
   
   </style>
@@ -71,7 +77,7 @@
 
 <nav>
   <ul>
-    <li style="padding-left: 0;"><strong>Roberto Starc</strong></li>
+    <li><strong>Roberto Starc</strong></li>
     <li><a href="index.html">Home</a></li>
     <li><a href="projects.html">Projects</a></li>
   </ul>

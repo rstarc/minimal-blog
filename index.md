@@ -1,13 +1,10 @@
-I am currently a Research Assistant at ETH Zurich in the EASL research group, supervised by [Prof. Ana Klimović](https://anakli.inf.ethz.ch/).
-
-I recently got my Master's degree in Computer Science at ETH Zurich.
-
-I like building computer stuff - but I spend most of my time figuring out how computers work, and trying to fix them. In other words, I like doing computer engineering research.
-
-I started this website [to tell people about the things I do](http://carl.flax.ie/dothingstellpeople.html).
+Hello! I am a Research Assistant at ETH Zurich in the EASL research group, supervised by [Prof. Ana Klimović](https://anakli.inf.ethz.ch/).
+This is my personal website. I started it to [to tell people about the things I do](http://carl.flax.ie/dothingstellpeople.html).
 
 You can reach me here:
 
-- Email: rstarc@ethz.ch
-- Linkedin: Roberto Starc
-- Github: rstarc
+- Email: [rstarc@ethz.ch](mailto:rstarc@ethz.ch)
+- Linkedin: [Roberto Starc](https://www.linkedin.com/in/roberto-starc/)
+- Github: [rstarc](https://github.com/rstarc)
+
+# Blog
