@@ -6,5 +6,3 @@ You can reach me here:
 - Email: [rstarc@ethz.ch](mailto:rstarc@ethz.ch)
 - Linkedin: [Roberto Starc](https://www.linkedin.com/in/roberto-starc/)
 - Github: [rstarc](https://github.com/rstarc)
-
-# Blog
