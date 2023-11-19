@@ -15,7 +15,7 @@ $(build_dir)/%.html: $(src_dir)/%.md header.html Makefile
 	mv $@.tmp $@
 	$(eval title=$(shell sed -n "/^# /{s/# //p; q}" $<))
 	$(info $(title))
-	# sed "s/{{TITLE}}/$(title)/" $@
+	sed -i "s/{{TITLE}}/$(title)/" $@
 
 # Copy all non-md files directly
 $(build_dir)/%: $(src_dir)/%
