@@ -23,3 +23,6 @@ $(build_dir)/%: $(src_dir)/%
 
 serve: build
 	python3 -m http.server -d $(build_dir)
+
+clean:
+	rm -r $(build_dir)
